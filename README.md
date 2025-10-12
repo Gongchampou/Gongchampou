@@ -5,7 +5,7 @@
 
 - Currently focused on building full-stack educational platforms, web apps, and tools for research automation. I’m continuously learning modern frameworks and deployment workflows to turn ideas into scalable digital solutions.
 - I believe that scientific thinking and coding creativity together can create meaningful solutions.  
-  
+---  
 |⚙️ Technical & Research Skills|🚀 Current Focus|
 |-----------------------|----------------------------------|
 |**Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code.  |  Building **full-stack educational web platforms** and **dashboard applications**   |
