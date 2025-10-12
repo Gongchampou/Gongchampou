@@ -10,9 +10,6 @@ Passionate about blending chemistry and technology, I’m an MSc Chemistry gradu
 
 Currently focused on building full-stack educational platforms, web apps, and tools for research automation. I’m continuously learning modern frameworks and deployment workflows to turn ideas into scalable digital solutions.
 
-- ⚙️ Skills: HTML, CSS, JavaScript, Node.js, Git, Web Deployment, Research & Data Analysis
-- 🎯 Interests: Full-Stack Development | Cloud Deployment | Scientific Computing | Ethical Hacking]
-
 
 I believe that scientific thinking and coding creativity together can create meaningful solutions.  
 
