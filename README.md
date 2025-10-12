@@ -5,16 +5,13 @@
 
 - Currently focused on building full-stack educational platforms, web apps, and tools for research automation. I’m continuously learning modern frameworks and deployment workflows to turn ideas into scalable digital solutions.
 - I believe that scientific thinking and coding creativity together can create meaningful solutions.  
----
-## ⚙️ Technical & Research Skills  
-- **Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code  
-- **Deployment:** GitHub Pages, Render, Cloudflare  
-- **Tools:** Git, npm, Linux terminal basics, Markdown  
----
-## 🚀 Current Focus  
-- Building **full-stack educational web platforms** and **dashboard applications**  
-- Creating **offline-friendly web apps** (PWA-style) for smoother real-world use  
-- Exploring **ethical hacking / white-hat security** and **cloud deployment** workflows  
+  
+|⚙️ Technical & Research Skills|🚀 Current Focus|
+|-----------------------|----------------------------------|
+|**Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code.  |  Building **full-stack educational web platforms** and **dashboard applications**   |
+|**Deployment:** GitHub Pages, Render, Cloudflare.  |  Creating **offline-friendly web apps** (PWA-style) for smoother real-world use.    |
+|**Tools:** Git, npm, Linux terminal basics, Markdown.  |  Exploring **ethical hacking / white-hat security** and **cloud deployment** workflows.  |
+
 ---
 ## 🧠 Projects & Interests  
 - 🧩 Developing a **University Management Web App** with live data features  
