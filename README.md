@@ -8,15 +8,10 @@
 ---  
 |⚙️ Technical & Research Skills|🚀 Current Focus|
 |-----------------------|----------------------------------|
-|**Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code.  |  Building **full-stack educational web platforms** and **dashboard applications**   |
-|**Deployment:** GitHub Pages, Render, Cloudflare.  |  Creating **offline-friendly web apps** (PWA-style) for smoother real-world use.    |
-|**Tools:** Git, npm, Linux terminal basics, Markdown.  |  Exploring **ethical hacking / white-hat security** and **cloud deployment** workflows.  |
+|- **Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code.  | - Building **full-stack educational web platforms** and **dashboard applications**   |
+|- **Deployment:** GitHub Pages, Render, Cloudflare.  |  - Creating **offline-friendly web apps** (PWA-style) for smoother real-world use.    |
+|- **Tools:** Git, npm, Linux terminal basics, Markdown.  | - Exploring **ethical hacking / white-hat security** and **cloud deployment** workflows.  |
 
----
-## 🧠 Projects & Interests  
-- 🧩 Developing a **University Management Web App** with live data features  
-- 💻 Learning modern frameworks to create scalable, professional apps  
-- 🔐 Interested in **Cybersecurity** and **Ethical Hacking Fundamentals**  
----
+
 > “Innovation happens where curiosity meets consistency.”  
 ⭐️ *If you like my work, feel free to follow or collaborate on interesting projects!*
