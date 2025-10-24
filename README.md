@@ -3,15 +3,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gongchampou&show_icons=true&theme=radical&hide_border=true" alt="Gongchampou kamei GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou kamei GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gongchampou&show_icons=true&theme=radical&hide_border=true" alt="Gongchampou's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" style="height:600px; width:700px; />
+</p>
+
 
 ---
+
 ## 🔹 About Me  
 - Passionate about blending chemistry and technology, I’m an MSc Chemistry graduate exploring the intersection of scientific research and software development. My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.) to developing web and mobile applications with clean, efficient design and functionality.
 
