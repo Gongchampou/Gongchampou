@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" style="height:600px; width:700px; />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" />
 </p>
 
 
