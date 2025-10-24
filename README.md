@@ -1,5 +1,17 @@
 # 👋 Hi, I'm Jonah Kamei  
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gongchampou&show_icons=true&theme=radical&hide_border=true" alt="Gongchampou kamei GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou kamei GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 ## 🔹 About Me  
 - Passionate about blending chemistry and technology, I’m an MSc Chemistry graduate exploring the intersection of scientific research and software development. My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.) to developing web and mobile applications with clean, efficient design and functionality.
 
