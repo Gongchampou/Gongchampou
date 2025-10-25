@@ -3,15 +3,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gongchampou&show_icons=true&theme=radical&hide_border=true" alt="Gongchampou's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gongchampou&show_icons=true&theme=radical&hide_border=true" alt="Gongchampou's GitHub Stats" width="380px" height="380px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's GitHub Streak" width="380px" height="480px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300px" height="400px" height="300px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" width="500px"/>
 </p>
 
 
