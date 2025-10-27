@@ -6,9 +6,9 @@
     </a>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300px" height="400px" height="300px"/>
-</p>
+<a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true" alt="Gongchampou's Activity Graph" width="500px"/>
 </p>
