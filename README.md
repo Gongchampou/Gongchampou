@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&left=true&vLeft=true&width=600&lines=Hi+I'm+Gongchampou!;Web+Developer;Chemistry+Student;Tech+Enthusiast+" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&left=true&vLeft=true&width=600&lines=Hi+I'm+Gongchampou Kamei!;Web+Developer;Chemistry+Student;Tech+Enthusiast+" />
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFEA&width=800&lines=Initializing+Profile...;Loading+Modules:+Chemistry%2C+Web+Dev%2C+AI;Status:+Online;Access+Granted+✔;" />
 </p>
 
