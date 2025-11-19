@@ -4,7 +4,7 @@
 </p>
 
 ## 🔹About Me  
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7VE.gif">
+<img align="right" alt="Coding" width="200" src="https://i.gifer.com/7VE.gif">
 
 - Passionate about blending chemistry and technology, I’m an MSc Chemistry graduate exploring the intersection of scientific research and software development.
 - My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.).
