@@ -6,11 +6,11 @@
 ## 🔹About Me  
 <img align="right" alt="Coding" width="200" src="https://i.gifer.com/7VE.gif">
 
-- Passionate about blending chemistry and technology, I’m an MSc Chemistry graduate exploring the intersection of scientific research and software development.
-- My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.).
-- Currently focused on building full-stack web apps, and tools for research automation.
-- I’m continuously learning modern frameworks and deployment workflows to turn ideas into scalable digital solutions.
-- I believe that scientific thinking and coding creativity together can create meaningful solutions.
+- 🧪 MSc Chemistry Graduate exploring the world of software development with curiosity and creativity.
+- 🔬My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.).
+- 💡Currently focused on building full-stack web apps, and tools for research automation.
+- 🌱 Currently learning **React**, **Next.js**, **Docker**, and **white‑hat hacking**
+- ⚡ Fun fact: I believe chemistry and coding share the same creative problem‑solving spirit!
 ---
 ### 📊 GitHub Stats
 <a href="">
@@ -30,30 +30,6 @@
   <img src="https://img.shields.io/github/stars/Gongchampou?label=Stars&style=for-the-badge"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gongchampou.Gongchampou" alt="Visitors"/>
 
-<p align="">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="900" />
-</p>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gongchampou&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-  <!-- Right Table -->
-  <div>
-
-| ⚙️ Technical & Research Skills | 🚀 Current Focus |
-|-------------------------------|-------------------------------|
-| - **Programming & Web:** HTML, CSS, JavaScript, Node.js, Git, VS Code | - Building **full-stack educational web platforms** & **admin dashboards** |
-| - **Deployment:** GitHub Pages, Render, Vercel, Cloudflare | - Creating **offline-friendly apps (PWA)** for real-world use |
-| - **Tools:** Git, npm, Linux basics, Markdown | - Learning **white-hat hacking**, cybersecurity & cloud workflows |
-
-  </div>
-
-</div>
 
 ---
 ## 🛠️ Tech Stack & Skills
