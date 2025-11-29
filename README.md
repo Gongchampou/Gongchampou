@@ -7,8 +7,9 @@
 <img align="right" alt="Coding" width="200" src="https://i.gifer.com/7VE.gif">
 
 - 🧪 MSc Chemistry Graduate exploring the world of software development with curiosity and creativity.
-- 🔬My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.).
-- 💡Currently focused on building full-stack web apps, and tools for research automation.
+- 👨‍💻 It’s not my main field, but I do coding as additional learning.
+- 🔬 My work ranges from projects on oxide thin film catalysts (TiO₂, ZnO, etc.).
+- 💡 Currently focused on building full-stack web apps, and tools for research automation.
 - 🌱 Currently learning **React**, **Next.js**, **Docker**, and **white‑hat hacking**
 - ⚡ Fun fact: I believe chemistry and coding share the same creative problem‑solving spirit!
 ---
@@ -50,11 +51,13 @@
 ### 💻 Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=lightgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🚀 Deployment & Tools
 
