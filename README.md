@@ -13,6 +13,13 @@
 - 🌱 Currently learning **React**, **Next.js**, **Docker**, and **white‑hat hacking**
 - ⚡ Fun fact: I believe chemistry and coding share the same creative problem‑solving spirit!
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonah.kamei.14) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonahk666)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonahkamei) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jonahk66) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gongchampou9402@gmail.com)
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Gongchampou&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
@@ -30,18 +37,7 @@
   <img src="https://img.shields.io/github/followers/Gongchampou?label=Followers&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/Gongchampou?label=Stars&style=for-the-badge"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gongchampou.Gongchampou" alt="Visitors"/>
-
-
-
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gongchampou&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
-</div>
+</p>
 
 ---
 ## 🛠️ Tech Stack & Skills
