@@ -14,17 +14,15 @@
 - ⚡ Fun fact: I believe chemistry and coding share the same creative problem‑solving spirit!
 ---
 ### 📊 GitHub Stats
-<a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gongchampou&Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=35" />
-    </a>
-<!--all are good -->
-
-<a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchampou&Bgstatic&theme=react&line_height=30&hide=css"/>
-    </a>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true&bg_color=0d1117&color=00f7ff&line=00ffea&point=ffffff" alt="Gongchampou's Activity Graph" width="400" height="600"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gongchampou&theme=radical&hide_border=true&border_radius=10" width="350"alt="streak">
+  <img src="https://github-readme-stats.shion.dev/api?username=Gongchampou&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Gongchampou&theme=dark&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gongchampou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gongchampou&color=blueviolet" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Gongchampou?label=Followers&style=for-the-badge"/>
