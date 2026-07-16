@@ -20,6 +20,8 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gongchampou&theme=radical&hide_border=true&bg_color=0d1117&color=00f7ff&line=00ffea&point=ffffff"
+  alt="Activity Graph" width="49%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gongchampou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
 </p>
 
